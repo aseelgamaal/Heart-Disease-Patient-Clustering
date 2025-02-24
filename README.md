@@ -36,5 +36,5 @@ To compare different clustering techniques, we visualized:
 - Hierarchical clustering provided an intuitive representation of relationships between data points.
 
 ## Technologies Used
-Programming Language: R
-Libraries: cluster, dbscan, factoextra, ggplot2
+- Programming Language: R
+- Libraries: cluster, dbscan, factoextra, ggplot2
